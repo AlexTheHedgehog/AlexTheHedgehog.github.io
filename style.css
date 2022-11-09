@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Digital Clock";
+    src: url("fontes/DS-DIGI.TTF") format("truetype"),
+        url("fontes/DS-DIGIB.TTF") format("truetype"),
+        url("fontes/DS-DIGII.TTF") format("truetype"),
+        url("fontes/DS-DIGIT.TTF") format("truetype");
+  }
+
+p, h1, ul {
+    color:green;
+    font-family: "Digital Clock";
+    font-size:xx-large;
+}
+
+body {
+    background-color: gray;
+}
