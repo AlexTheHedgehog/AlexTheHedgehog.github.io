@@ -4,11 +4,15 @@
         url("fontes/DS-DIGIB.TTF") format("truetype"),
         url("fontes/DS-DIGII.TTF") format("truetype"),
         url("fontes/DS-DIGIT.TTF") format("truetype");
-  }
+}
 
+@font-face {
+    font-family: "Daniel Font";
+    src: url("fontes/Danielfont-Regular.ttf") format("truetype");
+}
 p, h1, ul {
     color:green;
-    font-family: "Digital Clock";
+    font-family: "Daniel Font";
     font-size:xx-large;
 }
 
