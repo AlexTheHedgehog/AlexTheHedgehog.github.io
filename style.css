@@ -10,12 +10,26 @@
     font-family: "Daniel Font";
     src: url("fontes/Danielfont-Regular.ttf") format("truetype");
 }
+
 p, h1, ul {
     color:green;
     font-family: "Daniel Font";
     font-size:xx-large;
+    text-align: center
+}
+
+.AU {
+    background-color: black;
+    font-family: "Digital Clock";
+    text-align: center
+}
+
+.RS, .Desc {
+    background-color: steelblue;
+    border-color: black;
+    text-align: center;
 }
 
 body {
-    background-color: gray;
+    background-color: rgb(64, 28, 121);
 }
