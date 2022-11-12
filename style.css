@@ -11,25 +11,38 @@
     src: url("fontes/Danielfont-Regular.ttf") format("truetype");
 }
 
-p, h1, ul {
-    color:green;
-    font-family: "Daniel Font";
+.texto {
+    background-color: springgreen;
+    color: black;
     font-size:xx-large;
-    text-align: center
+    display: block;
+    max-width: 1000px;
+    margin: 100px;
+    border: 6px solid black;
+    border-radius: 7%;
+    text-align: center;
+    box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
 }
 
 .AU {
+    color: #37FF00;
     background-color: black;
     font-family: "Digital Clock";
-    text-align: center
-}
-
-.RS, .Desc {
-    background-color: steelblue;
-    border-color: black;
+    display: block;
+    font-size:xx-large;
     text-align: center;
+    border: 6px solid #37FF00;
+    border-radius: 10%;
+    box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
 }
 
 body {
-    background-color: rgb(64, 28, 121);
+    background-image: url("https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=2000");
+    background-size: cover;
+    font-family: "Daniel Font";
+    align-self: center;
+}
+
+head {
+    background-color: white;
 }
