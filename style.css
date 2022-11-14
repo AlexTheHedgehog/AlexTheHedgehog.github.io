@@ -51,3 +51,16 @@ body {
     border-radius: 10%;
     box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
 }
+
+button {
+    width: fit-content;
+    padding: .8rem 1.5rem;
+    margin: 2rem auto;
+    border-radius: 5px;
+    border: none;
+    font-size: 1rem;
+    background-color: black;
+    font-family: "Daniel Font";
+    color: white;
+    font-size: x-large;
+}
