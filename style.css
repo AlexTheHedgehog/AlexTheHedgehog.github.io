@@ -43,6 +43,11 @@ body {
     align-self: center;
 }
 
-head {
-    background-color: white;
+.cab {
+    display: block;
+    background-color: silver;
+    font-size: xx-large;
+    border: solid orange;
+    border-radius: 10%;
+    box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
 }
