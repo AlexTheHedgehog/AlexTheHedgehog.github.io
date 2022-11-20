@@ -64,3 +64,16 @@ button {
     color: white;
     font-size: x-large;
 }
+
+.comm {
+    background-color: rgb(255, 95, 95);
+    color: black;
+    font-size:xx-large;
+    display: block;
+    max-width: 1000px;
+    margin: 100px;
+    border: 6px solid black;
+    border-radius: 7%;
+    text-align: center;
+    box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
+}
