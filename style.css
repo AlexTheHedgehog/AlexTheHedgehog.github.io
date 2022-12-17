@@ -24,6 +24,18 @@
     box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
 }
 
+.port {
+    background-color: darkgreen;
+    color: black;
+    font-size:xx-large;
+    display: block;
+    margin: 100px;
+    border: 6px solid black;
+    border-radius: 7%;
+    text-align: center;
+    box-shadow: 1px 1px 12px 11px rgba(0,0,0,0.51)
+}
+
 .AU {
     color: #37FF00;
     background-color: black;
