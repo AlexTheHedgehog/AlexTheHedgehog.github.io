@@ -93,8 +93,8 @@ button {
 
 .texto-comm {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: springgreen;
-    color: black;
+    background-color: #272C4C;
+    color: limegreen;
     font-size:xx-large;
     display: block;
     border: 6px solid black;
