@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Alex.png"><SubTexture name="Alex idle0000" x="0" y="0" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0001" x="2644" y="0" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0002" x="5288" y="0" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0003" x="7932" y="0" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0004" x="0" y="2644" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0005" x="2644" y="2644" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0006" x="5288" y="2644" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0007" x="7932" y="2644" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0008" x="0" y="5288" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0009" x="2644" y="5288" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0010" x="5288" y="5288" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0011" x="7932" y="5288" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0012" x="0" y="7932" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0013" x="2644" y="7932" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0014" x="5288" y="7932" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0015" x="7932" y="7932" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0016" x="0" y="10576" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0017" x="2644" y="10576" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0018" x="5288" y="10576" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0019" x="7932" y="10576" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0020" x="0" y="13220" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0021" x="2644" y="13220" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0022" x="5288" y="13220" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0023" x="7932" y="13220" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0024" x="0" y="15864" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0025" x="2644" y="15864" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0026" x="5288" y="15864" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+<SubTexture name="Alex idle0027" x="7932" y="15864" width="2644" height="2644" frameX="0" frameY="0" frameWidth="2644" frameHeight="2644" />
+</TextureAtlas>
